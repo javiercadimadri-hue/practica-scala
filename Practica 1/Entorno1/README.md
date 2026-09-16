@@ -17,4 +17,4 @@ Para comprobar el correcto funcionamiento de este entorno, en el notebook se rea
 2. Declaración de variables básicas y operaciones con strings.
 3. Impresión de mensajes de prueba mediante println().
 
-(Las capturas de pantalla asociadas a la instalación y ejecución de este entorno se encuentran en la carpeta raíz /IMG).
+Capturas de pantalla de las evidencias en la carpeta "IMG"

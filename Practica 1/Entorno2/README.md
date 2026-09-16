@@ -23,4 +23,4 @@ Para el segundo entorno de desarrollo se seleccionó Visual Studio Code en combi
 5. **Ejecución mediante la Terminal de VS Code (`sbt run`)**
    Como método alternativo, se abrió la terminal integrada de Visual Studio Code en la ruta del proyecto y se ejecutó el comando `sbt run` para compilar y lanzar la aplicación desde la línea de comandos de sbt.
 
-Capturas de pantalla de las evidencias en "IMG"
+Capturas de pantalla de las evidencias en la carpeta "IMG"

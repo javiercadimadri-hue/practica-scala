@@ -24,4 +24,4 @@
 6. **Ejecución mediante `sbt shell` (`sbt run`)**
    Ejecución y compilación directa del proyecto desde la consola interactiva de sbt (`sbt shell`) confirmando la salida por pantalla.
 
-Capturas de pantalla de las evidencias en "IMG"
+Capturas de pantalla de las evidencias en la carpeta "IMG"

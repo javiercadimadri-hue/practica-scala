@@ -19,7 +19,7 @@
 4. **Estructura del Proyecto y Archivo `Main.scala`**  
    Organización de carpetas siguiendo el estándar (`src/main/scala`) con la carpeta `scala` correctamente definida como *Sources Root*, e implementación del objeto `Main`.
    
-   ![Proyecto-Intellij](./IMG/Proyecto-Intellij.png)  
+   ![Proyecto-Intellij](./IMG/Proyecto-Intelijj.png)  
    Vista general de la estructura del proyecto y configuración de directorios en IntelliJ IDEA.
 
 ### Ejecución del Programa

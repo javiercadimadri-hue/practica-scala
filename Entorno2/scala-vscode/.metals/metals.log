@@ -1,0 +1,88 @@
+2026.09.16 10:27:49 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\javie\AppData\Local\Temp\scala-vscode' for client Visual Studio Code 1.131.0.
+2026.09.16 10:27:49 INFO  Memory monitor started
+2026.09.16 10:27:49 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 10:27:49 INFO  no build target found for C:\Users\javie\AppData\Local\Temp\scala-vscode\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 10:27:52 INFO  no build target found for C:\Users\javie\AppData\Local\Temp\scala-vscode\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 10:27:58 WARN  no build target for: C:\Users\javie\AppData\Local\Temp\scala-vscode\src\main\scala\Main.scala
+2026.09.16 10:27:58 INFO  no build target found for C:\Users\javie\AppData\Local\Temp\scala-vscode\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 10:27:58 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\javie\AppData\Local\Temp\metals17864924585587444567\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.09.16 10:27:58 ERROR [info] [launcher] getting org.scala-sbt sbt 1.13.0  (this may take some time)...
+2026.09.16 10:27:58 WARN  no build target for: C:\Users\javie\AppData\Local\Temp\scala-vscode\project\metals.sbt
+2026.09.16 10:27:58 WARN  no build target for: C:\Users\javie\AppData\Local\Temp\scala-vscode\project\project\metals.sbt
+2026.09.16 10:27:58 INFO  no build target found for C:\Users\javie\AppData\Local\Temp\scala-vscode\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 10:27:58 INFO  no build target found for C:\Users\javie\AppData\Local\Temp\scala-vscode\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 10:27:58 INFO  no build target found for C:\Users\javie\AppData\Local\Temp\scala-vscode\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.16 10:28:01 ERROR [info] [launcher] getting Scala 2.12.21 (for sbt)...
+2026.09.16 10:28:02 INFO  [info] welcome to sbt 1.13.0 (Eclipse Adoptium Java 17.0.20.1)
+2026.09.16 10:28:04 INFO  [info] loading settings for project scala-vscode-build-build from metals.sbt...
+2026.09.16 10:28:04 INFO  [info] loading project definition from C:\Users\javie\AppData\Local\Temp\scala-vscode\project\project
+2026.09.16 10:28:08 INFO  [info] loading settings for project scala-vscode-build from metals.sbt...
+2026.09.16 10:28:08 INFO  [info] loading project definition from C:\Users\javie\AppData\Local\Temp\scala-vscode\project
+2026.09.16 10:28:15 INFO  [success] Generated .bloop\scala-vscode-build.json
+2026.09.16 10:28:15 INFO  [success] Total time: 6 s, completed 16 sept 2026 10:28:15
+2026.09.16 10:28:17 INFO  [info] loading settings for project scala-vscode from build.sbt...
+2026.09.16 10:28:17 INFO  [info] set current project to scala-vscode (in build file:/C:/Users/javie/AppData/Local/Temp/scala-vscode/)
+2026.09.16 10:28:17 INFO  [success] Generated .bloop\scala-vscode-test.json
+2026.09.16 10:28:17 INFO  [success] Generated .bloop\scala-vscode.json
+2026.09.16 10:28:17 INFO  [success] Total time: 0 s, completed 16 sept 2026 10:28:17
+2026.09.16 10:28:17 INFO  time: ran 'sbt bloopInstall' in 19s
+2026.09.16 10:28:17 INFO  Attempting to connect to the build server...
+2026.09.16 10:28:17 INFO  No running Bloop server found, starting one.
+2026.09.16 10:28:19 INFO  Starting compilation server
+2026.09.16 10:28:20 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\.metals\bsp.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.16 10:28:21 INFO  Attempting to connect to the build server...
+2026.09.16 10:28:21 INFO  Found a Bloop server running
+2026.09.16 10:28:22 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\project\.metals\bsp.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.16 10:28:22 INFO  time: Connected to build server in 4.24s
+2026.09.16 10:28:22 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.16 10:28:24 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 10:28:34 INFO  time: indexed workspace in 12s
+2026.09.16 10:28:35 INFO  compiling scala-vscode (1 scala source)
+2026.09.16 10:28:35 INFO  Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.21. Compiling...
+2026.09.16 10:28:47 INFO  Compilation completed in 12.521s.
+2026.09.16 10:28:52 INFO  time: compiled scala-vscode in 17s
+sept 16, 2026 10:30:06 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.16 10:31:31 INFO  Tracing is disabled for protocol dap-server. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\.metals\dap-server.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2026.09.16 10:31:31 INFO  Tracing is disabled for protocol dap-client. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\.metals\dap-client.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2026.09.16 10:31:32 INFO  Starting debug proxy for [Main]
+2026.09.16 10:31:32 INFO  Loaded expression compiler in 633 milliseconds
+2026.09.16 10:31:34 INFO  Loaded all sources and classes in 1 second
+2026.09.16 10:31:34 INFO  Initialized Scala 3 decoder in 7 milliseconds
+2026.09.16 10:31:34 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54858 .
+2026.09.16 10:31:34 INFO  Attaching to debuggee VM succeeded.
+2026.09.16 10:31:34 INFO  Canceling debug proxy for [Main]
+2026.09.16 10:31:34 INFO  Closing debug server tcp://0.0.0.0:54855
+2026.09.16 10:31:41 INFO  Tracing is disabled for protocol dap-server. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\.metals\dap-server.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2026.09.16 10:31:41 INFO  Tracing is disabled for protocol dap-client. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\.metals\dap-client.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2026.09.16 10:31:41 INFO  Starting debug proxy for [Main]
+2026.09.16 10:31:41 INFO  Loaded expression compiler in 0 milliseconds
+2026.09.16 10:31:41 INFO  Loaded all sources and classes in 776 milliseconds
+2026.09.16 10:31:41 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2026.09.16 10:31:41 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54868 .
+2026.09.16 10:31:41 INFO  Attaching to debuggee VM succeeded.
+2026.09.16 10:31:43 INFO  Canceling debug proxy for [Main]
+2026.09.16 10:31:43 INFO  Closing debug server tcp://0.0.0.0:54866
+2026.09.16 10:58:24 INFO  Shutting down server
+2026.09.16 10:58:24 INFO  Memory monitor stopped
+2026.09.16 10:58:24 INFO  shutting down Metals
+2026.09.16 10:58:24 INFO  Shut down connection with build server.
+2026.09.16 10:58:24 INFO  Shut down connection with build server.
+2026.09.16 10:58:24 INFO  Exiting server
+2026.09.16 10:58:44 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\javie\AppData\Local\Temp\scala-vscode' for client Visual Studio Code 1.138.0.
+2026.09.16 10:58:44 INFO  Memory monitor started
+2026.09.16 10:58:44 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 10:58:45 INFO  Attempting to connect to the build server...
+2026.09.16 10:58:45 INFO  Found a Bloop server running
+2026.09.16 10:58:45 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\.metals\bsp.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+sept 16, 2026 10:58:45 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.16 10:58:46 INFO  Attempting to connect to the build server...
+2026.09.16 10:58:46 INFO  Found a Bloop server running
+2026.09.16 10:58:46 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\javie\AppData\Local\Temp\scala-vscode\project\.metals\bsp.trace.json or C:\Users\javie\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.16 10:58:45 INFO  time: Connected to build server in 0.53s
+2026.09.16 10:58:46 INFO  Connected to Build server: Bloop v2.1.2
+sept 16, 2026 10:58:48 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.09.16 10:58:53 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.16 10:58:55 INFO  time: indexed workspace in 8.6s

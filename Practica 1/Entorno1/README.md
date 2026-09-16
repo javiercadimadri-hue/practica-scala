@@ -9,12 +9,32 @@ Este directorio contiene los archivos y evidencias correspondientes a la configu
 * Java: JDK 17
 
 ## Contenido del Directorio
-* Untitled.ipynb: Cuaderno de Jupyter donde se ha probado la ejecución de bloques de código en Scala, la declaración de variables y la salida por pantalla.
+* **Untitled.ipynb:** Cuaderno de Jupyter donde se ha probado la ejecución de bloques de código en Scala, la declaración de variables y la salida por pantalla.
 
-## Verificación del Entorno
-Para comprobar el correcto funcionamiento de este entorno, en el notebook se realizaron las siguientes pruebas:
-1. Verificación del kernel activo de Scala 2.12.21.
-2. Declaración de variables básicas y operaciones con strings.
-3. Impresión de mensajes de prueba mediante println().
+---
 
-Capturas de pantalla de las evidencias en la carpeta "IMG"
+## Evidencias y Capturas de Pantalla
+
+### 1. Comandos Scala
+![Comandos Scala](./IMG/Comandos%20Scala.png)
+*Ejecución de variables, operaciones básicas y salida por pantalla en el cuaderno.*
+
+### 2. Instalación de Almond Kernel
+![Instalación almond kernel](./IMG/Instalacion%20almondkernel.png)
+*Proceso de instalación del kernel de Almond para habilitar Scala en Jupyter.*
+
+### 3. JupyterLab Ejecutado
+![JupyterLab ejecutado](./IMG/JupyterLab%20ejecutado.png)
+*Entorno de JupyterLab abierto y operativo en el sistema.*
+
+### 4. Instalación de Jupyter
+![Instalación jupyter](./IMG/instalacion%20jupyter.png)
+*Registro del paquete e instalación inicial de Jupyter.*
+
+### 5. Versión de JDK
+![Versión JDK](./IMG/version%20JDK.png)
+*Comprobación de la versión de Java Development Kit instalada (JDK 17).*
+
+### 6. Versión de Scala
+![Versión Scala](./IMG/version%20scala.png)
+*Verificación de la versión del compilador de Scala en el entorno.*

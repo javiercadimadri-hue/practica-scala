@@ -1,4 +1,4 @@
-## 1.3 Evidencias Mínimas
+## Entorno 3 — Intellij IDEA Comunity + Scala plugin
 
 ### Entorno y Configuración
 

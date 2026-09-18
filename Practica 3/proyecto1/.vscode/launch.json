@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Main",
+      "mainClass": "Main",
+      "buildTarget": "file:/C:/Users/javie/Desktop/Imagenes%20practica%20Scala/Practica%203/proyecto1/?id=proyecto1",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
